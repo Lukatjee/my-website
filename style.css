@@ -79,3 +79,15 @@ p {
 
 }
 
+.link {
+
+    text-decoration: none;
+    color: #dc143c;
+
+}
+
+.link:hover {
+
+    text-decoration: underline;
+
+}
