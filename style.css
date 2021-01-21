@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
+
+@media (max-width: 768px) { 
+
+    h1 {
+
+        font-size: 20px;
+
+    }
+
+    p {
+
+        font-size: 15px;
+
+    }
+
+    .folder-icon {
+
+        width: 25% !important;
+
+    }
+
+}
+
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+
+    background-color: #1e1e1e;
+
+}
+
+h1 {
+
+    font-family: 'Raleway', Verdana;
+    color: white;
+
+}
+
+p {
+
+    font-family: 'Raleway', Verdana;
+    color: white;
+
+}
+
+.intro {
+
+    padding-top: 50px;
+
+}
+
+.download {
+
+    margin-top: 50px;
+
+}
+
+.folder-icon {
+
+    width: 5%;
+
+}
+
+.opening-header {
+
+    margin-top: 50px;
+
+}
+
+.closing-header {
+
+    margin-top: 50px;
+
+}
+
